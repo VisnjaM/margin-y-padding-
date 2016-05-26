@@ -1,0 +1,10 @@
+/* Agrega aqui tu CSS */
+.container {
+	width: 255px;
+	border: 2px solid orange;
+	border-top:-10px;
+	margin-top: 5px;
+}
+.container p {
+	font-size: 14px;
+}
